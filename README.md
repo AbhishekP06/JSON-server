@@ -5,7 +5,7 @@ Welcome to the TECH.GEEK React project! This repository contains the JSON server
 
 ## About the Project
 
-The TECH.GEEK React project is a simple wiki-like web page showcasing information about top tech people! This React project provides a user-friendly interface to browse and explore details of influential individuals in the technology industry.. The JSON server and `db.json` file are utilized to simulate a backend API and provide a data source for the React application.
+The TECH.GEEK React project is a simple wiki-like web page showcasing information about top tech people! This React project provides a user-friendly interface to browse and explore details of influential individuals in the technology industry. The JSON server and `db.json` file are utilized to simulate a backend API and provide a data source for the React application.
 
 ## JSON Server
 
